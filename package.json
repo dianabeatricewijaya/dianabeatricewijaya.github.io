@@ -1,18 +1,17 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "dianabeatricewijaya.github.io",
+  "description": "",
   "version": "1.0.0",
-  "author": "Diana Beatrice Wijaya <brittany.chiang@gmail.com>",
+  "author": "Diana Beatrice Wijaya <dianabeatricewijaya@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://dianabeatricewijaya.github.io/"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
