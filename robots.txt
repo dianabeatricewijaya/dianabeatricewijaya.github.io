@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dianabeatricewijaya.github.io/sitemap.xml
+Host: https://dianabeatricewijaya.github.io
