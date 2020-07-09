@@ -1,10 +1,4 @@
 import React from 'react';
-import logo from '../../images/diana-logo.gif'; // with import
-
-const IconLogo = () => (
-  <div>
-    <img src={logo} alt="diana" />
-  </div>
-);
+const IconLogo = () => <div>Diana Beatrice</div>;
 
 export default IconLogo;

@@ -1,8 +1,8 @@
 ---
-date: '2'
+date: '3'
 title: 'Koding Next'
 cover: './koding.png'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://kodingnext.com/'
 tech:
   - HTML
   - CSS

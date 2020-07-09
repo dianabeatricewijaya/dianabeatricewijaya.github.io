@@ -3,14 +3,14 @@ module.exports = {
   siteDescription:
     'Diana Beatrice Wijaya is a frontend engineer based in Jakarta, Indonesia who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Diana Beatrice Wijaya, Diana, Beatrice, dianabeatricew, dianabeatricewijaya, jasawebsite, buatwebsite, buatuiux, uiux, software engineer, front-end engineer, web developer, javascript, jakarta',
+    'Diana Beatrice Wijaya, Diana, Beatrice, dianabeatricewijaya, jasawebsite, buatwebsite, buatuiux, uiux, software engineer, front-end engineer, web developer, javascript, jakarta',
   siteUrl: 'https://dianabeatricewijaya.github.io/',
   siteLanguage: 'en_US',
   name: 'Diana Beatrice Wijaya',
   location: 'Jakarta, Indonesia',
   email: 'dianabeatricewijaya@gmail.com',
   github: 'https://github.com/dianabeatricewijaya',
-  twitterHandle: '@dianabeatricew',
+  twitterHandle: 'Diana Beatrice Wijaya',
   socialMedia: [
     {
       name: 'GitHub',

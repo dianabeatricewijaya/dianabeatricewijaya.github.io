@@ -1,12 +1,12 @@
 ---
-date: '4'
+date: '2020-08-01'
 title: 'Kemala Interior'
-cover: './kemalainterior.png'
 external: 'https://kemalainterior.com/'
 tech:
   - HTML
   - CSS
   - PHP
+company: 'Kemala Interior'
 showInProjects: true
 ---
 
